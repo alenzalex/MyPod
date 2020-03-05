@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyPod
 
 [![CI Status](https://img.shields.io/travis/alenzalex/MyPod.svg?style=flat)](https://travis-ci.org/alenzalex/MyPod)
@@ -27,3 +28,6 @@ alenzalex, alen.alexander@infosys.com
 ## License
 
 MyPod is available under the MIT license. See the LICENSE file for more info.
+=======
+# MyPod
+>>>>>>> bc148468d2d6bc4bdd57abdd3022c24d692849cc
